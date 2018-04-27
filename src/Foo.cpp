@@ -1,6 +1,6 @@
 // Author: Pierce Brooks
 
-#include <Foo.hpp>
+#include "Foo.hpp"
 
 Foo::Foo(int bar) :
     bar(bar)

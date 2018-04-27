@@ -1,7 +1,7 @@
 // Author: Pierce Brooks
 
-#include <Foo.hpp>
-#include <You.hpp>
+#include "Foo.hpp"
+#include "You.hpp"
 #include <string>
 #include <iostream>
 #include <cstdlib>
